@@ -1,0 +1,49 @@
+#navbar{
+    display: flex;
+    width: 60%;
+    height: 60px;
+    border: 1px solid indianred;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    color: indianred;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    color: indianred;
+}
+#but1{
+    background-color: indianred;
+    border: 1px solid indianred;
+    margin-left: 400px;
+    width: 80px;
+    height: 35px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#but2{
+    background-color: indianred;
+    border: 1px solid indianred;
+    margin-left: 30px;
+    width: 150px;
+    height: 35px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#nav-title{
+    padding-left: 30px;
+}
+#but1:hover{
+    background-color: white;
+    border: 1px solid indianred;
+    color: indianred;
+}
+#but2:hover{
+    background-color: white;
+    border: 1px solid indianred;
+    color: indianred;
+}
+

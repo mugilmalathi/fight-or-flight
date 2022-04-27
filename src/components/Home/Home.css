@@ -1,0 +1,9 @@
+table thead tr td{
+    border: 1px solid indianred;
+    background-color: indianred;
+    color: white;
+}
+table{
+    margin-top: 100px;
+    margin-left: 100px;
+}
